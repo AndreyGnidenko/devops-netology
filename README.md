@@ -11,3 +11,5 @@
 9. Файлы с расширением tf.json, имя которых заканчивается на _override
 10. Файл с именем .terraformrc
 11. Файл terraform.rc
+
+Changed and committed from IDE
